@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Epidemiology
+    tag: Epidemiology 
+  - name: Biostatistics 
+    tag: Biostatistics 
+  - name: Population modeling 
+    tag: Population modeling  
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Other
     tag: Demo
 
