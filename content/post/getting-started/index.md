@@ -2,7 +2,7 @@
 title: Tutorial for creating Gap minder visualization in SAS
 subtitle: "Helping you build an amazing visualization. "
 date: 2021-12-13T00:00:00.000Z
-summary: ""
+summary: Viz
 draft: false
 featured: false
 authors:
