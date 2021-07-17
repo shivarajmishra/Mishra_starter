@@ -8,21 +8,19 @@ bio: My research interests include developing and implementing epi-statistical
 interests: []
 social: []
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Melbourne
+  - name: World Heart Federation
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: "PhD in Epidemiology and Biostatistics "
+      institution: University of Queensland
+    - course: MPH (Epidemiology and Biostatistics)
+      institution: "University of Western Australia "
+    - course: Bachelor Degree in Public Health
+      institution: Institute of Medicine, TU, Nepal
+email: shivarajmishra@gmail.com
 superuser: true
+user_groups: []
 highlight_name: false
 ---
 <!--StartFragment-->
