@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+My list of publication, can be found here https://scholar.google.com/citations?user=YJdY1dgAAAAJ&hl=en
 {{% /callout %}}
