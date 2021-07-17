@@ -1,79 +1,49 @@
 ---
-title: "An example conference paper"
+abstract: >-
+  Key Points
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+  Question  Is the length of reproductive life span associated with future risk of cardiovascular disease (CVD) events?
+
+
+  Findings  In a pooled analysis of 307 855 women from 12 studies participating in the International Collaboration for a Life Course Approach to Reproductive Health and Chronic Disease Events consortium, short reproductive life span (<33 years) was associated with an increased risk of CVD events in midlife. Women who had both a short reproductive life span and early menarche (age ≤11 years) had the most pronounced risk of CVD events.
+
+
+  Meaning  These findings highlight reproductive life span as a potential marker of women’s risk of CVD events in midlife.
+
+
+  Publication URL: https://jamanetwork.com/journals/jamacardiology/article-abstract/2770502
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Shiva Raj Mishra
+author_notes: []
+publication: JAMA Cardiology
+summary: Short reproductive life span was associated with an increased risk of
+  nonfatal CVD events in midlife, and the risk was significantly higher for
+  women with early age at menarche.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Reproductive lifespan and cardiovascular disease events
+doi: 10.1001/jamacardio.2020.4105
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - example
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: 111.jpg
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
