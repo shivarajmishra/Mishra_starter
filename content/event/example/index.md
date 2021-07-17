@@ -4,12 +4,12 @@ abstract: "Here in this talk, I present the latest advancement in systematic
   and individual patient meta-analysis."
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Presentation for a workshop on systematic review in Nepal conducted by NHRC.
 title: "Emerging trends and issues in systematic review and meta-analysis: what,
   why, and when?"
-location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+location: Kathmandu, Nepal
+date: 2021-06-13T13:00:00Z
+date_end: 2021-06-18T15:00:00Z
 all_day: false
 event: Nepal Health Research Council, Nepal
 event_url: http://nhrc.gov.np/
@@ -18,11 +18,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: Ramshah Path
+  city: Kathmandu
+  region: NEP
+  postcode: 4200
+  country: Nepal
 links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
