@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-01-01"
   description: Causal Diagrams: Draw Your Assumptions Before Your Conclusions
-  organization: edX
+  organization: EdX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
@@ -46,7 +46,7 @@ item:
   organization: Udemy
   organization_url: https://www.udemy.com
   title: Blockchain Fundamentals
-  url: hhttps://www.udemy.com/certificate/UC-6cc9ce1b-0345-4e75-8186-1c08b517e16b/
+  url: https://www.udemy.com/certificate/UC-6cc9ce1b-0345-4e75-8186-1c08b517e16b/
 
 design:
   columns: '2' 
