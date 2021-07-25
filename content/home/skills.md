@@ -20,10 +20,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 90%
+- description: 100%
   icon: chart-line
-  icon_pack: fab
-  name: Python
+  icon_pack: fas
+  name: SAS
 - description: 100%
   icon: chart-line
   icon_pack: fas
