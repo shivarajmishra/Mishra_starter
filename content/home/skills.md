@@ -27,7 +27,7 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: SAS
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
