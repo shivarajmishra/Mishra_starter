@@ -1,6 +1,6 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
@@ -22,33 +22,29 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-03-24"
+  date_start: "2018-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Introduction to Agent-based Modeling with NetLogo
-  url:https://coursera.org/share/b2429e9bbbef30ec5a13ddd6c7b78478
+  title: Neural Networks and Deep Learning
+  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Causal Diagrams: Draw Your Assumptions Before Your Conclusions
-  organization: EdX
+  date_start: "2018-03-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
-  url: https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Interactive Python Dashboards with Plotly and Dash
-  organization: Udemy
-  organization_url: https://www.udemy.com
-  title: Blockchain Fundamentals
-  url: https://www.udemy.com/certificate/UC-6cc9ce1b-0345-4e75-8186-1c08b517e16b/
-
-design:
-  columns: '2' 
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2017-12-21"
+  date_start: "2017-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
 ---
