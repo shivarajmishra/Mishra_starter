@@ -25,26 +25,26 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2021-06-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Introduction to Agent-based Modeling with NegLogo
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.udemy.com
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2021-03-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: Python for Data Science and Machine Learning Bootcamp
+  url: https://www.udemy.com/certificate/UC-123a2e03-b2bf-430b-b213-4d2059381722/
+- certificate_url: https://www.udemy.com
+  date_end: "2020-07-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com/certificate/UC-6cc9ce1b-0345-4e75-8186-1c08b517e16b/
+  title: 'Interactive Python Dashboards with Ploty and Dash'
   url: ""
 ---
