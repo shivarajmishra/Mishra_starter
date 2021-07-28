@@ -26,10 +26,10 @@ organizations:
   - name: World Heart Federation
 education:
   courses:
-    - course: "PhD in Epidemiology and Biostatistics "
+    - course: "PhD (Epidemiology and Biostatistics)"
       institution: University of Queensland
     - course: MPH (Epidemiology and Biostatistics)
-      institution: "University of Western Australia "
+      institution: "University of Western Australia"
     - course: Bachelor Degree in Public Health
       institution: Institute of Medicine, TU, Nepal
 email: shivarajmishra@gmail.com
