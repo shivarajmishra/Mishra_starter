@@ -1,5 +1,5 @@
 ---
-title: Shiva Raj Mishra, MPH, PhD
+title: Shiva Raj Mishra,PhD
 role: Research Fellow - Epidemiology and Intervention Simulation Modeling
 avatar_filename: 17807205_10211073280621264_7973536778554503810_o.jpg
 bio: My research interests include developing and implementing epi-statistical
