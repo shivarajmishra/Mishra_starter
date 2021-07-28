@@ -13,7 +13,7 @@ social:
   link: https://twitter.com/ShivaRajMisra
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://shivarajmishra.com
+  link: https://findanexpert.unimelb.edu.au/profile/890138-shiva-raj-mishra
 - icon: github
   icon_pack: fab
   link: https://github.com/shivarajmishra
