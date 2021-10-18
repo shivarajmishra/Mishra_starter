@@ -26,14 +26,14 @@ organizations:
   - name: World Heart Federation
 education:
   courses:
-    - course: "PhD (Epidemiology and Biostatistics) (2017-2020)"
-      institution: University of Queensland, AUS
-    - course: "Masters of Statistics and Data Science (2019-2022)"
-      institution: Hasselt University, BE
-    - course: MPH (Epidemiology and Biostatistics) (2015-2016)
-      institution: "University of Western Australia"
-    - course: Bachelor Degree in Public Health (2009-2012)
-      institution: Institute of Medicine, TU, Nepal
+    - course: PhD (Epidemiology and Biostatistics)
+      institution: University of Queensland, AUS (2017-2020)
+    - course: Masters of Statistics and Data Science
+      institution: Hasselt University, BE (2019-2022)
+    - course: MPH (Epidemiology and Biostatistics)
+      institution: University of Western Australia (2015-2016)
+    - course: Bachelor Degree in Public Health 
+      institution: Institute of Medicine, TU, Nepal (2009-2012)
 email: shivarajmishra@gmail.com
 superuser: true
 user_groups: []
