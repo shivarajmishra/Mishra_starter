@@ -27,7 +27,9 @@ organizations:
 education:
   courses:
     - course: "PhD (Epidemiology and Biostatistics)"
-      institution: University of Queensland
+      institution: University of Queensland, AUS
+    - course: "Masters of Statistics and Data Science"
+      institution: Hasselt University, BE
     - course: MPH (Epidemiology and Biostatistics)
       institution: "University of Western Australia"
     - course: Bachelor Degree in Public Health
@@ -39,6 +41,6 @@ highlight_name: false
 ---
 <!--StartFragment-->
 
-Shiva Raj Mishra, PhD is currently working as a Research Fellow in Epidemiology and Intervention Simulation Modeling at the School of Population and Global Health, University of Melbourne. Broadly speaking, his work lies in the nexus of circulatory health, implementation research & access to medicine policies, with further interests in leveraging "big" data for evaluation of complex interventions in public health. From 2015-16, he worked as a commissioner in The Lancet YCEMP & as a freelance writer until 2018 ([https://bit.ly/3shnHVK](https://www.researchgate.net/deref/https%3A%2F%2Fbit.ly%2F3shnHVK)).
+Shiva Raj Mishra, PhD is currently working as a Research Fellow in Epidemiology and Intervention Simulation Modeling at the School of Population and Global Health, University of Melbourne. Broadly speaking, his work lies in the nexus of circulatory health, implementation research & access to medicine policies, with further interests in leveraging "big" data for evaluation of complex interventions in public health. From 2015-16, he worked as a commissioner in The Lancet YCEMP & as a freelance writer until 2018 ([https://bit.ly/3shnHVK](https://www.researchgate.net/deref/https%3A%2F%2Fbit.ly%2F3shnHVK)). 
 
 <!--EndFragment-->
