@@ -26,16 +26,14 @@ organizations:
   - name: World Heart Federation
 education:
   courses:
+    - course: Online Mastery of Statistics and Data Science 
+      institution: Edx, Coursera, Udemy, Hasselt University, Harvard Medical School
     - course: PhD (Epidemiology and Biostatistics)
       institution: University of Queensland, AUS
     - course: MPH (Epidemiology and Biostatistics)
       institution: University of Western Australia 
     - course: Bachelor Degree in Public Health 
       institution: Institute of Medicine, TU, Nepal
-Continuing:
-  courses:
-    - course: Masters of Statistics and Data Science
-      institution: Hasselt University, BE
 email: shivarajmishra@gmail.com
 superuser: true
 user_groups: []
