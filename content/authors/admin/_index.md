@@ -27,7 +27,7 @@ organizations:
 education:
   courses:
     - course: Mastery of Statistics and Data Science Online (MSDSo)
-      institution: Edx, Coursera, Udemy, Hasselt University, Harvard Medical School
+      institution: 
     - course: PhD (Epidemiology and Biostatistics)
       institution: University of Queensland, AUS
     - course: MPH (Epidemiology and Biostatistics)
