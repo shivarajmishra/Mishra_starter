@@ -26,7 +26,7 @@ organizations:
   - name: World Heart Federation
 education:
   courses:
-    - course: Online Mastery of Statistics and Data Science 
+    - course: Mastery of Statistics and Data Science Online (MSDO)
       institution: Edx, Coursera, Udemy, Hasselt University, Harvard Medical School
     - course: PhD (Epidemiology and Biostatistics)
       institution: University of Queensland, AUS
