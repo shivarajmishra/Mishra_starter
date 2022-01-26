@@ -28,12 +28,14 @@ education:
   courses:
     - course: PhD (Epidemiology and Biostatistics)
       institution: University of Queensland, AUS
-    - course: Masters of Statistics and Data Science
-      institution: Hasselt University, BE
     - course: MPH (Epidemiology and Biostatistics)
       institution: University of Western Australia 
     - course: Bachelor Degree in Public Health 
       institution: Institute of Medicine, TU, Nepal
+Continuing:
+  courses:
+    - course: Masters of Statistics and Data Science
+      institution: Hasselt University, BE
 email: shivarajmishra@gmail.com
 superuser: true
 user_groups: []
