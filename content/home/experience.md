@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Melbourne, AUS
-    date_start: '2021-03-24'
+    date_start: '2021"
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Brisbane, AUS
-    date_start: '2018-04-04'
-    date_end: '2020-12-31'
+    date_start: '2018'
+    date_end: '2020'
     description: Taught regression analysis to masters of public health and epidemiology students.
 
 design:
