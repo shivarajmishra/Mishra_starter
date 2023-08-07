@@ -23,12 +23,26 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Fellow
+    company: University of Sydney
+    company_url: ''
+    company_logo: org-gc
+    location: Sydney, AUS
+    date_start: '2023"
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Health equity in clinical trials
+        * Cardiovascular prevention and management
+        * Health data science
+   
+  - title: Research Fellow
     company: University of Melbourne
     company_url: ''
     company_logo: org-gc
     location: Melbourne, AUS
     date_start: '2021"
-    date_end: ''
+    date_end: '2022'
     description: |2-
         Responsibilities include:
         
